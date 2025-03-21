@@ -15,3 +15,11 @@ _链式求导_ ： `h'(x)=f'(g(x))*g'(x)`
 用于遍历各个参数节点  
 反向遍历推导梯度grad
 
+# tensor  
+通过Torch.tensor实例化张量  
+
+# MLP  
+多层感知器  本例中采用全连接
+
+# Neuron  
+micrograd中构建为wx+b的模型，  w、b都通过.engine去反向梯度优化，w、b都有各自的梯度
