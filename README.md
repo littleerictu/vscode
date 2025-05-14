@@ -1,19 +1,21 @@
 # vscode
+
 SomeCode4Learning
 
-# markdown language
+## markdown language
+
 ## this is second title
 
 Just wrrite something there  
 
-This is __bold one__ 
+This is __bold one__
 
 And is *Itatic one*  
 
 > this means quote  
->> quote in quote  
-> - this is funny!  
+>> quote in quote
 
+> - this is funny!  
 
 - list here  
 - list here again  
