@@ -1,4 +1,5 @@
 # 导数  
+
 f(x)=x+b  
 公式 ： `d f(x)/d x`  
 定义 ：  
@@ -10,16 +11,21 @@ _链式求导_ ： `h'(x)=f'(g(x))*g'(x)`
 `numpy.tanh()`  
 `d tanhx / dx  = 1 - tanh^2*x`  
 所以往上一层的梯度则可求  
-# 拓扑排序  
+
+## 拓扑排序  
+
 针对有向无环图，将各个顶点排序  
 用于遍历各个参数节点  
 反向遍历推导梯度grad
 
-# tensor  
+## tensor
+
 通过Torch.tensor实例化张量  
 
-# MLP  
+## MLP
+  
 多层感知器  本例中采用全连接
 
-# Neuron  
+## Neuron  
+
 micrograd中构建为wx+b的模型，  w、b都通过.engine去反向梯度优化，w、b都有各自的梯度

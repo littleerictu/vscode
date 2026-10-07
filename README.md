@@ -13,8 +13,7 @@ This is __bold one__
 And is *Itatic one*  
 
 > this means quote  
->> quote in quote
-
+>> quote in quote  
 > - this is funny!  
 
 - list here  
