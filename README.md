@@ -14,6 +14,7 @@ And is *Itatic one*
 
 > this means quote  
 >> quote in quote  
+>
 > - this is funny!  
 
 - list here  
@@ -23,9 +24,10 @@ And is *Itatic one*
 2. use "."  
 
 code use "`"
-I just mark `code` here
+I just mark`code`here
 
 And wanna more code just like below:  
+
 ```python
 def f(x):
     return x+=x
@@ -38,4 +40,3 @@ link use "[link name]" and "(link url)"
 like click [This](baidu.com) to 百度
 
 pics use `![]()`
-
