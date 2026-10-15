@@ -40,3 +40,5 @@ link use "[link name]" and "(link url)"
 like click [This](baidu.com) to 百度
 
 pics use `![]()`
+
+## thanks for learning
